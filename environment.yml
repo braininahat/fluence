@@ -1,0 +1,8 @@
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - numpy
+  - streamlit
+  - openpyxl
